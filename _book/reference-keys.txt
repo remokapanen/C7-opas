@@ -3,6 +3,8 @@ kirurgia
 OrtoTraumaKasi
 info-luunmurtuman-paraneminen-ja-komplikaatiot
 anestesiologia-ja-tehohoito
+Sisaanpaasytentti
+akuuttihoidon-abcde
 radiologia
 fysiatria
 palaute
