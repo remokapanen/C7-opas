@@ -1,7 +1,16 @@
 oppaasta
 kirurgia
+plastiikka--ja-yleiskirurgia
+suturaatio
+Ihosyovat
+gastrokirurgia
+propedeuttinen-kirurgia
+thorax--ja-verisuonikirurgia
+urologia
 OrtoTraumaKasi
 info-luunmurtuman-paraneminen-ja-komplikaatiot
+nivelten-tutkiminen
+kipsaus
 anestesiologia-ja-tehohoito
 Sisaanpaasytentti
 akuuttihoidon-abcde
