@@ -18,3 +18,5 @@ Diat ja Traumatologia-oppikirjasta kappaleet 21.1-21.8.
 Diat ja Traumatologia-oppikirjasta kappale 21.10 
 
 - Monia korttien kuvia kerätty [Kipsihoidon perusteet-oppikirjasta (Duodecim)](https://www.oppiportti.fi/oppikirjat/kps00001)
+
+Diojen lopussa olevat erilliset murtumat ja niiden hoito käsitellään paremmin muissa diapaketeissa, joten kortit sitten niiden yhteydessä. 
