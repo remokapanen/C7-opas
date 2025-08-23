@@ -6,6 +6,7 @@ Ihosyovat
 gastrokirurgia
 propedeuttinen-kirurgia
 thorax--ja-verisuonikirurgia
+alaraajojen-tukkiva-valtimotauti-aso-tauti
 urologia
 OrtoTraumaKasi
 info-luunmurtuman-paraneminen-ja-komplikaatiot
