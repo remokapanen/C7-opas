@@ -21,6 +21,39 @@ Suosittelen käymään luentodiat **Patit & iholuomet** sekä **Melanooma & muut
   
 ## Gastrokirurgia 
 
+### 01: Akuutti vatsa
+
+Suosittelen käymään läpi kaikki seuraavat luennot/osiot luennoista samaan syssyyn: akuutti vatsa, haimaluennon akuutti pankreatiitti -osio, ikteerinen potilas -luennon (eli sappirakon, sappiteiden ja maksan kirurgiset sairaudet) sappikivitaudin osio ja koloproktologiaa TK-lääkäreille -luennon divertikuliittiosio. Kortit ovat myös tehty sillä ajatuksella, että kaikki ym. aiheet on opiskeltu läpikohtaisesti. 
+
+-	Pelkkä akuutti vatsa -luento jättää monet aiheet liian nopeasti käsitellyiksi ja on järkevää ottaa kaikki luennon aiheet heti haltuun -> kannattaa käydä aiheiden omat luennot läpi samalla 
+
+  - Ym. luentojen loput aiheet ovat omissa tageissaan
+  
+Lisäksi suosittelen lukemaan/katsomaan seuraavia:
+
+- [Appendisiitti Oppikirjasta](https://www.oppiportti.fi/oppikirjat/kia00574) ja [Appendisiitti Terveysportista](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt01830/)
+  -	Käyn appendisiittia läpi myös yhdellä [opetusvideollani](https://youtu.be/gaZSuMsmqxs?si=PzhfOyi5jeTcGUZ0)
+- [Divertikuliitti Oppikirjasta](https://www.oppiportti.fi/oppikirjat/kia00578) ja [Divertikuliitti Terveysportista](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00252)
+  -	Käyn saman aiheen läpi myös yhdellä [opetusvideollani](https://youtu.be/DiQRv9rV0MM?si=rQVCLc2kcOdz_fE8&t=333) 
+- [Sappikivitauti Oppikirjasta](https://www.oppiportti.fi/oppikirjat/kia00627) ja [Sappikivitauti Terveysportista](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00265/)
+- [Pankreatiitti oppikirjasta](https://www.oppiportti.fi/oppikirjat/kia00634)
+  -	[Pankreatiitin tyypeistä ja komplikaatioista todella selkeää tekstiä](https://radiologyassistant.nl/abdomen/pancreas/acute-pancreatitis)
+  -	[Haiman kystisistä muutoksista samalta sivustolta](https://radiologyassistant.nl/abdomen/pancreas/pancreas-cystic-lesions)
+- [Vatsavammat oppikirjasta](https://www.oppiportti.fi/oppikirjat/kia00537)
+- [Ohutsuolitukos Oppikirjasta](https://www.oppiportti.fi/oppikirjat/kia00569) ja [Ohutsuolitukos Terveysportista](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00251/)
+- [Ruokatorven puhkeama oppikirjasta](https://www.oppiportti.fi/oppikirjat/kia00549)
+
+### 02: Ikteerinen potilas (sappirakon, sappiteiden ja maksan kirurgiset sairaudet) 
+
+Diat käytännössä riittävät. Aikaisempien akuuttiin vatsaan liittyvien korttien lisäksi tägin alla on myös loput luentoon liittyvät kortit. 
+
+### 03: Haimaluento 
+
+Diat käytännössä riittävät. Aikaisempien akuuttiin vatsaan liittyvien korttien lisäksi tägin alla on myös loput luentoon liittyvät kortit. 
+
+- [Täältä](https://www.oppiportti.fi/oppikirjat/kia00634) eteenpäin kannattaa lukea haiman sairauksista kuten aiemminkin
+
+
 ## Propedeuttinen kirurgia 
 
 ## Thorax- ja verisuonikirurgia
