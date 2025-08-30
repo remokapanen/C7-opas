@@ -1,3 +1,31 @@
+--- 
+title: "C7-opas"
+author: "Remo Kapanen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description:
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# Oppaasta
+
+Opas ei ole valmis, sillä lukukausi on tietysti vielä käynnissä. Oppaan pääasiallinen tarkoitus on toimia paikkana, jonne linkkaan lähteet, joista kannattaa opetella asiat ennen Rankin kortteja tai viimeistään silloin kun et ymmärrä jotain korttia. 
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+<!--chapter:end:index.Rmd-->
+
 # Kirurgia
 
 ## Plastiikka- ja yleiskirurgia 
@@ -79,3 +107,64 @@ Diat riittänevät pääosin. Voi lisäksi lueskella/katsoa:
 
 
   
+
+<!--chapter:end:01-Kirurgia.Rmd-->
+
+# Ortopedia, Traumatologia ja Käsikirurgia {#OrtoTraumaKasi}
+
+## 01: INFO + Luunmurtuman paraneminen ja komplikaatiot
+
+Diat ja Traumatologia-oppikirjasta kappaleet 21.1-21.8.
+
+- Lisäksi kannattaa katsella näitä: 
+
+  - [Luun rakenne-artikkeli](https://open.oregonstate.education/aandp/chapter/6-3-bone-structure/)
+  - [Aitiopaineoireyhtymä-artikkeli](https://say.fi/files/lehtovakkalakaakinen_aitiopaine.pdf)
+  - [Murtuman paraneminen-video](https://youtu.be/ZD_5Why69IM?si=IJFrbGAw79Cy18Fe)
+  - [Avomurtuma-artikkeli](https://www.oppiportti.fi/oppikirjat/kia00380?q=avomurtuma)
+  
+## 02: Nivelten tutkiminen 
+
+## 03: Kipsaus 
+
+Diat ja Traumatologia-oppikirjasta kappale 21.10 
+
+- Monia korttien kuvia kerätty [Kipsihoidon perusteet-oppikirjasta (Duodecim)](https://www.oppiportti.fi/oppikirjat/kps00001)
+
+Diojen lopussa olevat erilliset murtumat ja niiden hoito käsitellään paremmin muissa diapaketeissa, joten kortit sitten niiden yhteydessä. 
+
+<!--chapter:end:02-Orto.Rmd-->
+
+# Anestesiologia ja tehohoito 
+
+## Sisäänpääsytentti {#Sisaanpaasytentti}
+
+[Hyshys](images/Sisäänpääsytentti_ANE.pdf)
+
+## Akuuttihoidon ABCDE
+
+Diat sinänsä riittävät, mutta suosittelen katsomaan SketchyIM:n Shock-videot läpi. 
+
+
+<!--chapter:end:03-Ane.Rmd-->
+
+# Radiologia
+
+<!--chapter:end:04-Radiologia.Rmd-->
+
+# Fysiatria
+
+<!--chapter:end:05-Fysiatria.Rmd-->
+
+# Palaute 
+
+2025 on ensimmäinen vuosi, jolloin Ranki ja tämä opas on käytettävissä C7-kurssilla. Olisin hyvin kiitollinen, jos antaisitte vinkkejä sen suhteen, miten voin parantaa projektia. Vinkit ovat erityisen arvokkaita, koska teen kurssin myötä kortteja, joten palautteen myötä voi nopeasti ohjata projektia parempaan suuntaan. 
+
+- Neuvoja voi laittaa sähköpostiini (reakap@utu.fi) tai jos haluaa pysyä anonyyminä, niin voi kirjoittaa [Formsin](https://docs.google.com/forms/d/e/1FAIpQLSericnXGU2U_h7stCFVZ5X0-6Q9BLGdiDugun_Mex3kf_bTpg/viewform?usp=sharing&ouid=112689903880978617225) kautta.
+
+- Samoja reittejä hyödyntäen voi aina myös esittää kysymyksiä, jos sellaisia on.
+
+
+
+<!--chapter:end:06-Palaute.Rmd-->
+
