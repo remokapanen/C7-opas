@@ -19,6 +19,8 @@ kipsaus
 anestesiologia-ja-tehohoito
 Sisaanpaasytentti
 akuuttihoidon-abcde
+yleisanestesia-sedaatio-ja-puudutukset
+monitorointi
 radiologia
 fysiatria
 palaute
