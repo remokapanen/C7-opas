@@ -78,5 +78,32 @@ Diat riittänevät pääosin. Voi lisäksi lueskella/katsoa:
 
 ## Urologia 
 
+**Huom! Diat yleisesti aika heikkoja. Kannattaa todellakin lukea lisämateriaaleja.**
 
+### 01: Virtsateiden toiminnalliset häiriöt {#Virtsateiden-toiminnalliset-hairiot}
+
+Käy läpi "Urologisen potilaan tutkiminen"- ja "Virtsateiden toiminnalliset häiriöt"-luennot. Lisäksi: 
+
+- [Inkontinenssi-video](https://youtu.be/Vli_6spE8HY?si=DMgq-x4hyavj92bL)
+- [BPH Urokirjasta](https://www.oppiportti.fi/oppikirjat/uro02200)
+- [BPH Kirrakirjasta](https://www.oppiportti.fi/oppikirjat/kia00306)
+
+### 02: Päivystysurologiaa {#Paivystysurologiaa}
+
+Tulossa
+
+### 03: Eturauhassyövän diagnostiikka {#Eturauhassyovan-diagnostiikka}
+
+Diojen lisäksi: 
+
+- [Eturauhassyövän hoitoketjua](https://www.pirha.fi/web/hoito-ja-palveluketjut/eturauhassyopapotilaan-hoitoketju)
+- [Eturauhassyöpä kirrakirjasta](https://www.oppiportti.fi/oppikirjat/kia00313)
+- [PSA-seulonta](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt02036/)
+
+### 04: Eturauhassyövän hoito {#Eturauhassyovan-hoito}
+
+Diojen lisäksi: 
+
+- [Eturauhassyövän hoitoketjua](https://www.pirha.fi/web/hoito-ja-palveluketjut/eturauhassyopapotilaan-hoitoketju)
+- [Eturauhassyöpä kirrakirjasta](https://www.oppiportti.fi/oppikirjat/kia00313)
   

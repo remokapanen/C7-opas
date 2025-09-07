@@ -12,12 +12,15 @@ thorax--ja-verisuonikirurgia
 alaraajojen-tukkiva-valtimotauti-aso-tauti
 muu-valtimokirurgia
 urologia
+Virtsateiden-toiminnalliset-hairiot
+Paivystysurologiaa
+Eturauhassyovan-diagnostiikka
+Eturauhassyovan-hoito
 OrtoTraumaKasi
 info-luunmurtuman-paraneminen-ja-komplikaatiot
 nivelten-tutkiminen
 kipsaus
 anestesiologia-ja-tehohoito
-Sisaanpaasytentti
 akuuttihoidon-abcde
 yleisanestesia-sedaatio-ja-puudutukset
 monitorointi

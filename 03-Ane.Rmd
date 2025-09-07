@@ -1,8 +1,6 @@
 # Anestesiologia ja tehohoito 
 
-## Sisäänpääsytentti {#Sisaanpaasytentti}
-
-[Hyshys](images/Sisäänpääsytentti_ANE.pdf)
+Ennakkomateriaalit ovat aika hyviä, niistä voi myös lueskella aiheita ennen kortteja. 
 
 ## Akuuttihoidon ABCDE
 
