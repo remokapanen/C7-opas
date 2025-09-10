@@ -16,6 +16,7 @@ Virtsateiden-toiminnalliset-hairiot
 Paivystysurologiaa
 Eturauhassyovan-diagnostiikka
 Eturauhassyovan-hoito
+kivespussin-sairaudet
 OrtoTraumaKasi
 info-luunmurtuman-paraneminen-ja-komplikaatiot
 nivelten-tutkiminen

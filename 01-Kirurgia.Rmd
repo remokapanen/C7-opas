@@ -91,7 +91,12 @@ Käy läpi "Urologisen potilaan tutkiminen"- ja "Virtsateiden toiminnalliset hä
 
 ### 02: Päivystysurologiaa {#Paivystysurologiaa}
 
-Tulossa
+Diojen lisäksi: 
+
+- [Prostatiitti Urokirjasta](https://www.oppiportti.fi/oppikirjat/uro02102)
+- [VTI Käypä Hoito](https://www.kaypahoito.fi/hoi10050) jos päässyt sisuksilta unohtumaan
+- [Kiveskiertymä Kirran kirjasta](https://www.oppiportti.fi/oppikirjat/kia00290)
+- [Virtsakivitauti Urokirjasta](https://www.oppiportti.fi/oppikirjat/uro01600) ja [Terveysportista](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00303)
 
 ### 03: Eturauhassyövän diagnostiikka {#Eturauhassyovan-diagnostiikka}
 
@@ -108,3 +113,9 @@ Diojen lisäksi:
 - [Eturauhassyövän hoitoketjua](https://www.pirha.fi/web/hoito-ja-palveluketjut/eturauhassyopapotilaan-hoitoketju)
 - [Eturauhassyöpä kirrakirjasta](https://www.oppiportti.fi/oppikirjat/kia00313)
   
+  
+### 05: Kivespussin sairaudet 
+
+Paljon samoja aiheita kuin päivystysurologia-luennon korteissa ja samat kortit tägätty tännekin. Diojen lisäksi 
+
+- [Hydroseele, spermatoseele, varikoseele](https://www.oppiportti.fi/oppikirjat/kia00334)
