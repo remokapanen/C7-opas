@@ -7,6 +7,7 @@ gastrokirurgia
 akuutti-vatsa
 ikteerinen-potilas-sappirakon-sappiteiden-ja-maksan-kirurgiset-sairaudet
 haimaluento
+mahasuolikanavan-verenvuodot
 propedeuttinen-kirurgia
 thorax--ja-verisuonikirurgia
 alaraajojen-tukkiva-valtimotauti-aso-tauti
