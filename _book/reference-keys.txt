@@ -8,6 +8,7 @@ akuutti-vatsa
 ikteerinen-potilas-sappirakon-sappiteiden-ja-maksan-kirurgiset-sairaudet
 haimaluento
 mahasuolikanavan-verenvuodot
+Halyttavat-oireet-ja-GI-kanavan-maligniteetit
 propedeuttinen-kirurgia
 thorax--ja-verisuonikirurgia
 alaraajojen-tukkiva-valtimotauti-aso-tauti
