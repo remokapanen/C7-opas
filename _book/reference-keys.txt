@@ -13,6 +13,7 @@ propedeuttinen-kirurgia
 thorax--ja-verisuonikirurgia
 alaraajojen-tukkiva-valtimotauti-aso-tauti
 muu-valtimokirurgia
+laskimokirurgia
 urologia
 Virtsateiden-toiminnalliset-hairiot
 Paivystysurologiaa
