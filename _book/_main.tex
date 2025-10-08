@@ -1,0 +1,505 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{book}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{5}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+\usepackage{booktabs}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={C7-opas},
+  pdfauthor={Remo Kapanen},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{C7-opas}
+\author{Remo Kapanen}
+\date{2025-10-08}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\chapter{Oppaasta}\label{oppaasta}
+
+Opas ei ole valmis, sillä lukukausi on tietysti vielä käynnissä. Oppaan pääasiallinen tarkoitus on toimia paikkana, jonne linkkaan lähteet, joista kannattaa opetella asiat ennen Rankin kortteja tai viimeistään silloin kun et ymmärrä jotain korttia.
+
+\chapter{Kirurgia}\label{kirurgia}
+
+\section{Plastiikka- ja yleiskirurgia}\label{plastiikka--ja-yleiskirurgia}
+
+\subsection{01: Suturaatio}\label{suturaatio}
+
+Ei kortteja vielä
+
+\subsection{02: Patit \& iholuomet + Melanooma \& muut ihosyövät}\label{Ihosyovat}
+
+Suosittelen käymään luentodiat \textbf{Patit \& iholuomet} sekä \textbf{Melanooma \& muut ihosyövät} samassa yhteydessä, sillä ne käsittelevät samoja asioita. Kortit on myös tehty sillä logiikalla, että molemmat materiaalit on opiskeltu ennen kortteja.
+
+\begin{itemize}
+\item
+  Suosittelen myös lukemaan näitä:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{https://www.terveysportti.fi/apps/dtk/ltk/article/duo18406/}{Ihokasvaimen stanssibiopsia vai poisto kokonaan?}
+  \item
+    \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt01386/}{Melanooman Terveysportti-artikkeli}
+  \item
+    \href{https://www.oppiportti.fi/oppikirjat/pat00688}{Melanooma (Patologia, Duodecim}
+  \item
+    \href{https://www.terveysportti.fi/apps/dtk/ltk/article/duo11556/}{Basalioomat, okasolusyöpä ja sen esiasteet, miten hoidan?}
+  \item
+    \href{https://www.terveysportti.fi/apps/dtk/ltk/article/hsu00009}{Kansallinen ei-melanoottisten ihosyöpien hoito-ohjeistus}
+  \item
+    \href{https://www.oppiportti.fi/oppikirjat/pat00763}{Pehmytkudoskasvaimet}
+  \end{itemize}
+\end{itemize}
+
+\section{Gastrokirurgia}\label{gastrokirurgia}
+
+\subsection{01: Akuutti vatsa}\label{akuutti-vatsa}
+
+Suosittelen käymään läpi kaikki seuraavat luennot/osiot luennoista samaan syssyyn: akuutti vatsa, haimaluennon akuutti pankreatiitti -osio, ikteerinen potilas -luennon (eli sappirakon, sappiteiden ja maksan kirurgiset sairaudet) sappikivitaudin osio ja koloproktologiaa TK-lääkäreille -luennon divertikuliittiosio. Kortit ovat myös tehty sillä ajatuksella, että kaikki ym. aiheet on opiskeltu läpikohtaisesti.
+
+\begin{itemize}
+\item
+  Pelkkä akuutti vatsa -luento jättää monet aiheet liian nopeasti käsitellyiksi ja on järkevää ottaa kaikki luennon aiheet heti haltuun -\textgreater{} kannattaa käydä aiheiden omat luennot läpi samalla
+\item
+  Ym. luentojen loput aiheet ovat omissa tageissaan
+\end{itemize}
+
+Lisäksi suosittelen lukemaan/katsomaan seuraavia:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00574}{Appendisiitti Oppikirjasta} ja \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt01830/}{Appendisiitti Terveysportista}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Käyn appendisiittia läpi myös yhdellä \href{https://youtu.be/gaZSuMsmqxs?si=PzhfOyi5jeTcGUZ0}{opetusvideollani}
+  \end{itemize}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00578}{Divertikuliitti Oppikirjasta} ja \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00252}{Divertikuliitti Terveysportista}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Käyn saman aiheen läpi myös yhdellä \href{https://youtu.be/DiQRv9rV0MM?si=rQVCLc2kcOdz_fE8&t=333}{opetusvideollani}
+  \end{itemize}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00627}{Sappikivitauti Oppikirjasta} ja \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00265/}{Sappikivitauti Terveysportista}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00634}{Pankreatiitti oppikirjasta}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{https://radiologyassistant.nl/abdomen/pancreas/acute-pancreatitis}{Pankreatiitin tyypeistä ja komplikaatioista todella selkeää tekstiä}
+  \item
+    \href{https://radiologyassistant.nl/abdomen/pancreas/pancreas-cystic-lesions}{Haiman kystisistä muutoksista samalta sivustolta}
+  \end{itemize}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00537}{Vatsavammat oppikirjasta}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00569}{Ohutsuolitukos Oppikirjasta} ja \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00251/}{Ohutsuolitukos Terveysportista}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00549}{Ruokatorven puhkeama oppikirjasta}
+\end{itemize}
+
+\subsection{02: Ikteerinen potilas (sappirakon, sappiteiden ja maksan kirurgiset sairaudet)}\label{ikteerinen-potilas-sappirakon-sappiteiden-ja-maksan-kirurgiset-sairaudet}
+
+Diat käytännössä riittävät. Aikaisempien akuuttiin vatsaan liittyvien korttien lisäksi tägin alla on myös loput luentoon liittyvät kortit.
+
+\subsection{03: Haimaluento}\label{haimaluento}
+
+Diat käytännössä riittävät. Aikaisempien akuuttiin vatsaan liittyvien korttien lisäksi tägin alla on myös loput luentoon liittyvät kortit.
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00634}{Täältä} eteenpäin kannattaa lukea haiman sairauksista kuten aiemminkin
+\end{itemize}
+
+\subsection{04: Mahasuolikanavan verenvuodot}\label{mahasuolikanavan-verenvuodot}
+
+Diat keskittyvät vain hyvin simppeliin GI-vuotojen lähestymistapaan eikä vuotojen akuutin diagnostiikan tai akuutin tilan hoidon lisäksi käydä läpi muuta. Tein kortit myös tähän malliin, joten kortteja on vähän ja diat riittävät niihin.
+
+\begin{itemize}
+\tightlist
+\item
+  Jos haluaa perehtyä yksittäisiin aiheisiin enemmän, niin esim. sisuksilta Eso-Gas-Duo luento ja sen kortit sekä SketchyIM:n GI-videot (esim. varixvuodot) voivat olla hyvä lisä.
+\end{itemize}
+
+\subsection{05: Hälyttävät oireet ja GI-kanavan maligniteetit}\label{Halyttavat-oireet-ja-GI-kanavan-maligniteetit}
+
+Luennon nimi on ``Mitä hälyttävien oireiden takana voi olla -- gi-kanavan maligniteeteista''. Dioissa sinänsä kaikki riittävä aivan perusasioiden suhteen. Suositeltuja lisämateriaaleja:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00557}{Mahasyöpä Oppikirjasta}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt02084/}{Ruokatorvisyöpä Terveysportista}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00586}{Kaikki kolorektaalikasvaimista Kirurgian oppikirjasta}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt01866/}{Kolorektaalisyöpä Terveysportista}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/hsu00007/}{Kolorektaalisyövän kansalliset hoitosuositukset}
+\end{itemize}
+
+Ei kovinkaan hoitoon keskittyen, mutta kaikkeen sitä ennen:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://youtu.be/4JpulGfwCh4?si=EjwC-_iyRZzDXHXz&t=2784}{Mahalaukun syövät patologian opetusvideostani}
+\item
+  \href{https://youtu.be/adbNA6vdZLQ?si=FLZq-7btXuJbj_6l&t=1683}{Ruokatorven syövät patologian opetusvideostani}
+\item
+  \href{https://youtu.be/4VHXfISmPto?si=FOxG6WXaWu3uWGwI}{Paksusuolen polyypit ja kolorektaalikarsinooma -opetusvideo}
+\end{itemize}
+
+\subsection{06: Koloproktologiaa TK-lääkäreille}\label{Koloproktologiaa-TK-laakareille}
+
+Diojen lisäksi kannattaa perehtyä tarvittaessa:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00590}{Polypoosioireyhtymät, Lynchin oireyhtymä ja adenoomat}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/pat00470}{Paksusuolen polyypit, sahalaitamuutokset ja adenoomapolyypit}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00611}{Peräpukamat, Kirurgian oppikirja}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/sll55439/}{Peräpukamat, artikkeli}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/sll55439/}{Peräpukamat, Terveysportti}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00613}{Anaalifissuura, Kirurgian oppikirja}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00244/}{Anaalifissuura, Terveysportti}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/sll55440/}{Peräaukon haavauma, paise ja fisteli -artikkeli}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00245/}{Anaaliabsessi ja -fisteli, Terveysportti}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00613}{Anaaliabsessi ja -fisteli, Kirurgian oppikirja}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00602}{Rektumprolapsi, Kirurgian oppikirja}
+\end{itemize}
+
+\subsection{07: Vatsanpeitteiden ja nivusalueen tyrät}\label{Vatsanpeitteiden-ja-nivusalueen-tyrat}
+
+Diat pääasiassa riittävät. Jos vatsanpeitteiden ja nivusen anatomia on epäselvää, niin kts. seuraavat (tai vilkaise luentodiat TLN:n Vatsaontelon seinämän anatomia -luennosta). Anatomiasta on omat korttinsa tägillä Luennot::C1::TLN::Vatsaontelon\_seinämän\_anatomia
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://youtu.be/mxOajxO8mX0?si=TcxLvzc5Y5DJCTJL}{Anteriorisen vatsaontelon lihakset}
+\item
+  \href{https://youtu.be/tXa4U5oztsg?si=Pbdo46RtM62vCvGW}{Vatsanpeitteet}
+\item
+  \href{https://youtu.be/XrUGnE_qf3w?si=mVk8VEJXUrxOOZoX}{Nivuskanava 3D}
+\item
+  \href{https://youtu.be/WauCWTXY-7c?si=-vHeJtWF4fvxxI46}{Anteriorisen vatsaontelon seinämän verenkierto}
+\end{itemize}
+
+Luettavaa, jos haluaa dioja tarkemmin:
+
+\begin{itemize}
+\tightlist
+\item
+  {[}Tyrät{]} \url{https://www.oppiportti.fi/oppikirjat/kia00654})
+\end{itemize}
+
+\section{Propedeuttinen kirurgia}\label{propedeuttinen-kirurgia}
+
+\section{Thorax- ja verisuonikirurgia}\label{thorax--ja-verisuonikirurgia}
+
+\subsection{01: Alaraajojen tukkiva valtimotauti (ASO-tauti)}\label{alaraajojen-tukkiva-valtimotauti-aso-tauti}
+
+Diat riittävät. Kannattaa kuitenkin silmäillä \href{https://www.kaypahoito.fi/hoi50083}{Käypä Hoitoa} aiheesta.
+
+\begin{itemize}
+\item
+  Samasta aiheesta on myös ihan käypiä Sketchy-videoita:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    SketchySurgery -\textgreater{} Vascular disorders -\textgreater{} Peripheral -\textgreater{} Lower Extremity Peripheral Arterial Disease 1: Presentation \& Workup + Lower Extremity Peripheral Arterial Disease 2: Management
+  \end{itemize}
+\end{itemize}
+
+\subsection{02: Muu valtimokirurgia}\label{muu-valtimokirurgia}
+
+Diat riittänevät pääosin. Voi lisäksi lueskella/katsoa:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://trepo.tuni.fi/bitstream/handle/10024/222111/duo16892.pdf}{Kylmä jalka -artikkeli}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00159}{Aortan aneurysmat ja dissekoituma Terveysportista}
+\item
+  \href{https://youtu.be/ry5fB1kMwyY?si=YYM8j-NQj2Ws_wNN}{Subclavian steal syndrome}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/sll51002/}{Mesenteriaali-iskemiasta artikkeli}
+\item
+  Aiheisiin liittyvät Sketchyt
+\end{itemize}
+
+\subsection{03: Laskimokirurgia}\label{laskimokirurgia}
+
+Diat riittävät taas (Kangas vaikuttaa olevan ainoa opettaja koko koulussa, joka osaa tehdä hyviä dioja). Lisälukemisena, jos haluaa samoja asioita eri formaatissa:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00437}{Alaraajojen laskimovajaatoiminta, Kirurgian oppikirja}
+\item
+  \href{https://www.kaypahoito.fi/hoi05030}{Alaraajojen laskimovajaatoiminta, Käypä Hoito}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00146/}{Pinnallinen laskimotukos (tromboflebiitti), Terveysportti}
+\end{itemize}
+
+\section{Urologia}\label{urologia}
+
+\textbf{Huom! Diat yleisesti aika heikkoja. Kannattaa todellakin lukea lisämateriaaleja.}
+
+\subsection{01: Virtsateiden toiminnalliset häiriöt}\label{Virtsateiden-toiminnalliset-hairiot}
+
+Käy läpi ``Urologisen potilaan tutkiminen''- ja ``Virtsateiden toiminnalliset häiriöt''-luennot. Lisäksi:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://youtu.be/Vli_6spE8HY?si=DMgq-x4hyavj92bL}{Inkontinenssi-video}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/uro02102}{Prostatiitti Urokirjasta}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/uro02200}{BPH Urokirjasta}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00306}{BPH Kirrakirjasta}
+\end{itemize}
+
+\subsection{02: Päivystysurologiaa}\label{Paivystysurologiaa}
+
+Diojen lisäksi:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/uro02102}{Prostatiitti Urokirjasta}
+\item
+  \href{https://www.kaypahoito.fi/hoi10050}{VTI Käypä Hoito} jos päässyt sisuksilta unohtumaan
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00290}{Kiveskiertymä Kirran kirjasta}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/uro01600}{Virtsakivitauti Urokirjasta} ja \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00303}{Terveysportista}
+\end{itemize}
+
+\subsection{03: Eturauhassyövän diagnostiikka}\label{Eturauhassyovan-diagnostiikka}
+
+Diojen lisäksi:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.pirha.fi/web/hoito-ja-palveluketjut/eturauhassyopapotilaan-hoitoketju}{Eturauhassyövän hoitoketjua}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00313}{Eturauhassyöpä kirrakirjasta}
+\item
+  \href{https://www.terveysportti.fi/apps/dtk/ltk/article/ykt02036/}{PSA-seulonta}
+\end{itemize}
+
+\subsection{04: Eturauhassyövän hoito}\label{Eturauhassyovan-hoito}
+
+Diojen lisäksi:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.pirha.fi/web/hoito-ja-palveluketjut/eturauhassyopapotilaan-hoitoketju}{Eturauhassyövän hoitoketjua}
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00313}{Eturauhassyöpä kirrakirjasta}
+\end{itemize}
+
+\subsection{05: Kivespussin sairaudet}\label{kivespussin-sairaudet}
+
+Paljon samoja aiheita kuin päivystysurologia-luennon korteissa ja samat kortit tägätty tännekin. Diojen lisäksi
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.oppiportti.fi/oppikirjat/kia00334}{Hydroseele, spermatoseele, varikoseele}
+\end{itemize}
+
+\chapter{Ortopedia, Traumatologia ja Käsikirurgia}\label{OrtoTraumaKasi}
+
+\section{01: INFO + Luunmurtuman paraneminen ja komplikaatiot}\label{info-luunmurtuman-paraneminen-ja-komplikaatiot}
+
+Diat ja Traumatologia-oppikirjasta kappaleet 21.1-21.8.
+
+\begin{itemize}
+\item
+  Lisäksi kannattaa katsella näitä:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \href{https://open.oregonstate.education/aandp/chapter/6-3-bone-structure/}{Luun rakenne-artikkeli}
+  \item
+    \href{https://say.fi/files/lehtovakkalakaakinen_aitiopaine.pdf}{Aitiopaineoireyhtymä-artikkeli}
+  \item
+    \href{https://youtu.be/ZD_5Why69IM?si=IJFrbGAw79Cy18Fe}{Murtuman paraneminen-video}
+  \item
+    \href{https://www.oppiportti.fi/oppikirjat/kia00380?q=avomurtuma}{Avomurtuma-artikkeli}
+  \end{itemize}
+\end{itemize}
+
+\section{02: Nivelten tutkiminen}\label{nivelten-tutkiminen}
+
+Tulossa
+
+\section{03: Kipsaus}\label{kipsaus}
+
+Diat ja Traumatologia-oppikirjasta kappale 21.10
+
+\begin{itemize}
+\tightlist
+\item
+  Monia korttien kuvia kerätty \href{https://www.oppiportti.fi/oppikirjat/kps00001}{Kipsihoidon perusteet-oppikirjasta (Duodecim)}
+\end{itemize}
+
+Diojen lopussa olevat erilliset murtumat ja niiden hoito käsitellään paremmin muissa diapaketeissa, joten kortit sitten niiden yhteydessä.
+
+\chapter{Anestesiologia ja tehohoito}\label{anestesiologia-ja-tehohoito}
+
+Ennakkomateriaalit ovat aika hyviä, niistä voi myös lueskella aiheita ennen kortteja.
+
+\section{Elvytys}\label{elvytys}
+
+Diojen lisäksi lue \href{https://www.kaypahoito.fi/hoi17010}{elvytyksen Käypä Hoito}
+
+\section{Akuuttihoidon ABCDE}\label{akuuttihoidon-abcde}
+
+Diat sinänsä riittävät, mutta suosittelen katsomaan SketchyIM:n Shock-videot läpi.
+
+\section{Yleisanestesia, sedaatio ja puudutukset}\label{yleisanestesia-sedaatio-ja-puudutukset}
+
+Diat pääosin riittävät, kannattaa kerrata seuraavia jos päässyt unohtumaan:
+
+\begin{itemize}
+\tightlist
+\item
+  Pahoinvointilääkkeet: SketchyPharm Antiemetics
+\item
+  Farmiksen luennot samoista aiheista (\href{images/250313_Yleisanestesia-aineet_Saari.pdf}{Yleisanestesia-aineet (Saari)} ja \href{images/250312_Puudutusaineet_Hynninen.pdf}{Puudutteet (Hynninen)})
+\end{itemize}
+
+\section{Monitorointi}\label{monitorointi}
+
+Diojen lisäksi suosittelen:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.oppiportti.fi/dvk00057}{Keskuslaskimokatetrit-verkkokurssi} (diapakettissa vain yksi dia aiheesta, mutta tärpeissä pari kysymystä näihin liittyen; ei tarvitse verkkokurssia tarkasti käydä läpi, mutta perusidea aiheesta)
+\item
+  \href{https://youtu.be/fLfHsuWYbdc?si=x942lC9NxLq4E7Ca}{Kapnografia-video}
+\item
+  \href{https://say.fi/files/illman_relaksaatio.pdf}{TOF artikkelimuodossa} tai \href{https://youtu.be/b61fpDNZOcU?si=VxuzU94RuK7FemSP}{videomuodossa} ja \href{https://youtu.be/kqUAgtV3Bb4?si=cdcMjGGZh-usSWY0}{videomuodossa tarkemmin}
+\end{itemize}
+
+\chapter{Radiologia}\label{radiologia}
+
+\chapter{Fysiatria}\label{fysiatria}
+
+\chapter{Palaute}\label{palaute}
+
+2025 on ensimmäinen vuosi, jolloin Ranki ja tämä opas on käytettävissä C7-kurssilla. Olisin hyvin kiitollinen, jos antaisitte vinkkejä sen suhteen, miten voin parantaa projektia. Vinkit ovat erityisen arvokkaita, koska teen kurssin myötä kortteja, joten palautteen myötä voi nopeasti ohjata projektia parempaan suuntaan.
+
+\begin{itemize}
+\item
+  Neuvoja voi laittaa sähköpostiini (\href{mailto:reakap@utu.fi}{\nolinkurl{reakap@utu.fi}}) tai jos haluaa pysyä anonyyminä, niin voi kirjoittaa \href{https://docs.google.com/forms/d/e/1FAIpQLSericnXGU2U_h7stCFVZ5X0-6Q9BLGdiDugun_Mex3kf_bTpg/viewform?usp=sharing&ouid=112689903880978617225}{Formsin} kautta.
+\item
+  Samoja reittejä hyödyntäen voi aina myös esittää kysymyksiä, jos sellaisia on.
+\end{itemize}
+
+\bibliography{book.bib,packages.bib}
+
+\end{document}

@@ -91,6 +91,19 @@ Diojen lisäksi kannattaa perehtyä tarvittaessa:
 - [Anaaliabsessi ja -fisteli, Kirurgian oppikirja](https://www.oppiportti.fi/oppikirjat/kia00613)
 - [Rektumprolapsi, Kirurgian oppikirja](https://www.oppiportti.fi/oppikirjat/kia00602)
 
+### 07: Vatsanpeitteiden ja nivusalueen tyrät {#Vatsanpeitteiden-ja-nivusalueen-tyrat}
+
+Diat pääasiassa riittävät. Jos vatsanpeitteiden ja nivusen anatomia on epäselvää, niin kts. seuraavat (tai vilkaise luentodiat TLN:n Vatsaontelon seinämän anatomia -luennosta). Anatomiasta on omat korttinsa tägillä Luennot::C1::TLN::Vatsaontelon_seinämän_anatomia 
+
+- [Anteriorisen vatsaontelon lihakset](https://youtu.be/mxOajxO8mX0?si=TcxLvzc5Y5DJCTJL)
+- [Vatsanpeitteet](https://youtu.be/tXa4U5oztsg?si=Pbdo46RtM62vCvGW)
+- [Nivuskanava 3D](https://youtu.be/XrUGnE_qf3w?si=mVk8VEJXUrxOOZoX)
+- [Anteriorisen vatsaontelon seinämän verenkierto](https://youtu.be/WauCWTXY-7c?si=-vHeJtWF4fvxxI46) 
+
+Luettavaa, jos haluaa dioja tarkemmin:
+
+- [Tyrät, Kirurgian oppikirja](https://www.oppiportti.fi/oppikirjat/kia00654)
+
 
 ## Propedeuttinen kirurgia 
 

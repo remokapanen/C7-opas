@@ -10,6 +10,7 @@ haimaluento
 mahasuolikanavan-verenvuodot
 Halyttavat-oireet-ja-GI-kanavan-maligniteetit
 Koloproktologiaa-TK-laakareille
+Vatsanpeitteiden-ja-nivusalueen-tyrat
 propedeuttinen-kirurgia
 thorax--ja-verisuonikirurgia
 alaraajojen-tukkiva-valtimotauti-aso-tauti
@@ -26,6 +27,7 @@ info-luunmurtuman-paraneminen-ja-komplikaatiot
 nivelten-tutkiminen
 kipsaus
 anestesiologia-ja-tehohoito
+elvytys
 akuuttihoidon-abcde
 yleisanestesia-sedaatio-ja-puudutukset
 monitorointi
