@@ -3,7 +3,7 @@ kirurgia
 plastiikka--ja-yleiskirurgia
 suturaatio
 Ihosyovat
-gastrokirurgia
+kirurgiset-pehmytkudosinfektiot
 akuutti-vatsa
 ikteerinen-potilas-sappirakon-sappiteiden-ja-maksan-kirurgiset-sairaudet
 haimaluento
@@ -32,5 +32,6 @@ akuuttihoidon-abcde
 yleisanestesia-sedaatio-ja-puudutukset
 monitorointi
 radiologia
+radiologian-perusteet
 fysiatria
 palaute

@@ -1,1 +1,23 @@
 # Radiologia
+
+Kurssimateriaalina toimii Kliininen radiologia -oppikirja, Natiivikuvia päivystäjälle -Moodlekurssi ja muutamat luentopaketit 
+
+## 01: Radiologian perusteet 
+
+Tägin kortit eivät perustu mihinkään yksittäiseen luentoon tai kirjan kappaleeseen, mutta käyvät läpi tärkeimmät asiat radiologian fysiikasta ja kontrastiaineista. 
+
+- Kaikki osiosta [Radiologisen tutkimuksen perusteet, Kliininen radiologia(Duodecim)]( https://www.oppiportti.fi/oppikirjat/krd00101)
+- [Säteilysuojelu ja optimointi](https://www.oppiportti.fi/oppikirjat/krd01601)
+- Kaikki osiosta [Fysiikka ja tekniikka](https://www.oppiportti.fi/oppikirjat/krd01401)
+  - Tärpeissä tästä aiheesta jonkin verran varsinkin MRI:n suhteen. Kts. seuraavat MRI-fysiikkaa käsittelevät videot, jos aihe ei oikein avaudu tekstin perusteella 
+    - [MRI-laitteen perusteet yleisesti](https://youtu.be/NlYXqRG7lus?si=0o-82vXxfTGKE0dy)
+    - [MRI-fysiikan nopeat perusteet](https://youtu.be/jLnuPKhKXVM?si=k_udyqRVppONFS6-)
+    - [T1- ja T2-relaksaatio uudestaan jos ei auennut aikeammin]( https://youtu.be/qrR2yoRhAmY?si=u6-W2s1geVV3UNCs)
+    - Uskomattoman hyvä video aiheesta [T1W, T2W, PDW](https://youtu.be/gGIycwtFOBk?si=8BQb1_Nr99oH0ns5)
+    - [Inversiopulssit ja rasvan/nesteen nollaus kuvasta](https://youtu.be/Iln6_J3V514?si=yQey8LnZZLBjBHXS)
+    - [Kemiallinen siirtymä](https://youtu.be/QsKpK1AvYRs?si=ophLln7CAY1NjMQO)
+    -	[MRI:n oppimisen tukena radiologymasterclassin perusteet](https://www.radiologymasterclass.co.uk/tutorials/mri/mri_scan)
+    -	[Täydentävät neuroradiologiset kuvantamismenetelmät, erityisesti fMRI](https://www.oppiportti.fi/oppikirjat/krd00612)
+- Kaikki osiosta [Kontrastiaineet](https://www.oppiportti.fi/oppikirjat/krd01501)
+  -	[Varjoaineiden käytöstä lisää ja suosituksia mm. lääketauotuksista ja nesteprofylaksiasta](https://diagnostiikka.hus.fi/documents/20117/87759/varjoaineet_rontgentutkimuksissa_aikuispotilailla_suositus_kaytosta.pdf)
+- [Johdatus rtg-kuvaan, Natiivikuvia päivystäjälle](https://moodle.utu.fi/pluginfile.php/1843050/mod_resource/content/4/Johdatus%20rtg-kuvaan.pdf)
