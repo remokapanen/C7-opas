@@ -21,3 +21,44 @@ Tägin kortit eivät perustu mihinkään yksittäiseen luentoon tai kirjan kappa
 - Kaikki osiosta [Kontrastiaineet](https://www.oppiportti.fi/oppikirjat/krd01501)
   -	[Varjoaineiden käytöstä lisää ja suosituksia mm. lääketauotuksista ja nesteprofylaksiasta](https://diagnostiikka.hus.fi/documents/20117/87759/varjoaineet_rontgentutkimuksissa_aikuispotilailla_suositus_kaytosta.pdf)
 - [Johdatus rtg-kuvaan, Natiivikuvia päivystäjälle](https://moodle.utu.fi/pluginfile.php/1843050/mod_resource/content/4/Johdatus%20rtg-kuvaan.pdf)
+
+## 02_Thorax 
+
+Jaettu eri osioihin, jotka voi halutessaan käydä yksitellen läpi.
+
+### 01_Perusteet 
+
+- Thorax, Rtg-kuvia päivystäjälle 
+-[Thx-rtg:n anatomian opetusvideo](https://youtu.be/wI2wC-trYxM?si=_XUyMW96VZfJOVig)
+- [Thoraxkuva ja sen tulkinta, Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00301)
+- [Thoraxin kuvantamismenetelmät, Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00302)
+
+### 02_Sydämen vajaatoiminta {#02_Sydamen-vajaatoiminta} 
+
+Kaikki osiosta [Sydän ja verisuonet; Thoraxkuvaus](https://www.oppiportti.fi/oppikirjat/krd00402)
+
+### 03_Thoraxin tulehdus 
+
+[Thoraxin tulehdussairaudet, Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00303)
+
+### 04_Keuhkojen parenkyymitaudit
+
+[Keuhkojen parenkyymitaudit, Kliinen radiologia](https://www.oppiportti.fi/oppikirjat/krd00304)
+
+### 05_Thoraxin kasvaimet
+
+[Thoraxin kasvaimet, Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00305)
+
+### 06_Ei-traumaattinen päivystysradiologia {#Thoraxin-ei-traumaattinen-paivystysradiologia}
+
+[Ei-traumaattinen päivystysradiologia, Thorax; Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00214)
+
+### 07_Traumaattinen {{#Thoraxin-traumaattinen-paivystysradiologia}
+
+[Traumaattinen päivystysradiologia, Thorax; Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00205)
+
+### 08_Tehohoitopotilaan radiologia
+
+- Thorax- Rtg-kuvia päivystäjälle (johdot yms) 
+- [Tehohoitopotilaan radiologiset tutkimukset, Thoraxkuvaus; Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00221)
+
