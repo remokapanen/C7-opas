@@ -4,6 +4,8 @@ plastiikka--ja-yleiskirurgia
 suturaatio
 Ihosyovat
 kirurgiset-pehmytkudosinfektiot
+rintarauhanen
+gastrokirurgia
 akuutti-vatsa
 ikteerinen-potilas-sappirakon-sappiteiden-ja-maksan-kirurgiset-sairaudet
 haimaluento
@@ -35,7 +37,7 @@ radiologia
 radiologian-perusteet
 thorax
 perusteet
-id_02_Sydamen-vajaatoiminta
+id_02-Sydamen-vajaatoiminta
 thoraxin-tulehdus
 keuhkojen-parenkyymitaudit
 thoraxin-kasvaimet

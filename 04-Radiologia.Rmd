@@ -33,7 +33,7 @@ Jaettu eri osioihin, jotka voi halutessaan käydä yksitellen läpi.
 - [Thoraxkuva ja sen tulkinta, Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00301)
 - [Thoraxin kuvantamismenetelmät, Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00302)
 
-### 02_Sydämen vajaatoiminta {#02_Sydamen-vajaatoiminta} 
+### 02_Sydämen vajaatoiminta {#02-Sydamen-vajaatoiminta} 
 
 Kaikki osiosta [Sydän ja verisuonet; Thoraxkuvaus](https://www.oppiportti.fi/oppikirjat/krd00402)
 
@@ -53,7 +53,7 @@ Kaikki osiosta [Sydän ja verisuonet; Thoraxkuvaus](https://www.oppiportti.fi/op
 
 [Ei-traumaattinen päivystysradiologia, Thorax; Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00214)
 
-### 07_Traumaattinen {{#Thoraxin-traumaattinen-paivystysradiologia}
+### 07_Traumaattinen {#Thoraxin-traumaattinen-paivystysradiologia}
 
 [Traumaattinen päivystysradiologia, Thorax; Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00205)
 
