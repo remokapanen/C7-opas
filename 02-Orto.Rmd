@@ -13,7 +13,14 @@ Diat ja Traumatologia-oppikirjasta kappaleet 21.1-21.8.
   
 ## 02: Nivelten tutkiminen 
 
-Tulossa
+Luennon kortit ovat tägätty niin, että ne käsittelevät pääasiassa vain itse tutkimista eikä itse vammoihin perehdytä kovinkaan paljoa. Tarkemmat kortit ovat omien luentojensa yhteydessä.
+
+Anatomian harjoituksen tarpeessa kts.
+
+- C1::TLN::Yläraaja_1
+- C1::TLN::Alaraaja_1
+- C1::TLN::Alaraaja_2
+
 
 ## 03: Kipsaus 
 
@@ -22,3 +29,91 @@ Diat ja Traumatologia-oppikirjasta kappale 21.10
 - Monia korttien kuvia kerätty [Kipsihoidon perusteet-oppikirjasta (Duodecim)](https://www.oppiportti.fi/oppikirjat/kps00001)
 
 Diojen lopussa olevat erilliset murtumat ja niiden hoito käsitellään paremmin muissa diapaketeissa, joten kortit sitten niiden yhteydessä. 
+
+## 04: Rotator cuff 
+
+Luento: Kiertäjäkalvosin – Rotator cuff; pari tiivistelmädiaa löytyy myös luennosta Nivelside ja jännevammat
+
+- Traumatologia, Kandidaattikustannus kpl 36.9 (Olkanivelen seudun jännevammat)
+
+Lisäksi asioita, joita ei dioissa, mutta tärkeitä kuitenkin
+- [Olkapään jännevaivat](https://www.kaypahoito.fi/hoi50099)
+- [Jäätynyt olkapää, Terveysportti](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt01384/)
+- [Jäätynyt olkapää, Ortopedian käsikirja](https://www.oppiportti.fi/oppikirjat/ort00034)
+
+
+Anatomian harjoituksen tarpeessa kts. C1::TLN::Yläraaja_1
+
+## 05: Nivelside- ja jännevammat {#Nivelside-ja-jannevammat}
+
+Lue myös TK-traumatologiaa 1 -diat olka- ja AC-luksaation sekä kyynärnivelen sijoiltaanmenon suhteen
+
+- Traumatologia, Kandidaattikustannus kpl 36.3 (AC-nivelen sijoiltaanmeno) ja 36.9-36.10 (Olkanivelen seudun jännevammat ja Olkanivelen sijoiltaanmeno)
+- Traumatologia, Kandidaattikustannus kpl 37.4 (Kyynärnivelen sijoiltaanmeno)
+
+Anatomian harjoituksen tarpeessa kts. C1::TLN::Yläraaja_1
+
+
+## 06: Proksimaaliset humerusmurtumat 
+
+TK-trauma 1-luennosta humeruksen murtumat, tuberculum majus ja proksimaaliset humerusmurtumat -diat
+
+- Traumatologia, Kandidaattikustannus kpl 36.5-36.6 (Olkaluun yläosan murtumat + Tuberculum majuksen murtuma)
+
+Anatomian harjoituksen tarpeessa kts. C1::TLN::Yläraaja_1
+
+
+## 07: TK-trauma_1
+
+Tägätty vain niitä kortteja, joiden asioita ei käsitellä muilla luennoilla. Muut kokonaisuudet ovat niiden luentojen alla, joissa ne käsitellään paremmin.
+
+- Traumatologia, Kandidaattikustannus kpl 36.2 (Solisluun murtuma)
+- Traumatologia, Kandidaattikustannus kpl 36.7 (Olkaluun varren murtuma)
+- Traumatologia, Kandidaattikustannus kpl 37.3 (Kyynärnivelen seudun murtumat)
+- Traumatologia, Kandidaattikustannus kpl 37.5 (Kyynärvarren vammat)
+
+
+## 08: Rannemurtumat 
+
+Luennot Rannemurtumaseminaari + Rannemurtumat(TYKS-hoitolinja). Ranneluumurtumista myös Käden alueen vamma MOODLE -luennon dioissa. Rannemurtumat luennosta Traumaradiologia
+
+Lisäksi:
+
+- Ranne, Rtg-kuvia päivystäjälle
+- [Röntgenkuvan anatomia ja mittaukset, Youtube-video] (https://youtu.be/EvRBmngKJUU?si=ufp82RDKBFJk2Adr)
+- [Ranne, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00210)
+- Lapsen rannevamman RTG (Käsikirurgia tietoisku 1)
+- Värttinäluun murtuman mittaaminen (Käsikirurgia Tietoisku 5)
+- [Rannemurtuma, Käypä Hoito](https://www.kaypahoito.fi/hoi50109)
+- Traumatologia, Kandidaattikustannus kpl 38.2 (Rannevammat), kpl 38.3 (Värttinäluun distaaliset murtumat) ja kpl 38.4 (Ranneluumurtumat)
+- Käsikirurgia, Kandidaattikustannus kpl 7.3 (Ranteen murtumat ja luksaatiot); erityisesti veneluun murtuma -osio
+- Käsikirurgia, Kandidaattikustannus kpl 7.5 (SL-välin ongelmat)
+- Käsikirurgia, Kandidaattikustannus kpl 7.6 (Distaalisen radioulnaarinivelen vaivat)
+
+## 09: Käden ja sormien vammat {#Kaden-ja-sormien-vammat}
+
+Trauma kandikurssi take home -dioista aiheeseen sopivat 
+
+- Radiologia: [Kämmenluut ja sormet, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00210)
+- Käden trauma rtg; Rtg-kuvia päivystäjälle
+- Tietoisku 6 (Joutsenkaula ja napinläpi)
+- Käsikirurgia, Kandidaattikustannus kpl 7.1 (Sormien, välikämmenluiden ja peukalon murtumat)
+- Käsikirurgia, Kandidaattikustannus kpl 7.2 (Sormien, välikämmenluiden ja peukalon luksaatiot ja nivelsidevammat)
+- Käsikirurgia, Kandidaattikustannus kpl 8.1 (Koukistajajännevamma)
+- Käsikirurgia, Kandidaattikustannus kpl 8.3 (Ojentajajännevamma)
+
+
+
+## 15: Selkärangan vammat 
+
+Diat ja lisäksi: 
+
+- [Selkärangan ja selkäytimen vammat, Traumatologia -kandidaattikustannus](https://www.oppiportti.fi/oppikirjat/krd00215)
+- [Selkärangan päivystyskuvantaminen, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00207)
+
+## 20: Tietoisku 04 
+
+Tietoisku ja lisäksi: 
+
+- [Rannekanavaoireyhtymä (Yläraajan hermopinteet ja neuropatiat, Duodecim Ortopedian ja traumatologian käsikirja)](https://www.oppiportti.fi/oppikirjat/ort00155)
+

@@ -28,6 +28,14 @@ OrtoTraumaKasi
 info-luunmurtuman-paraneminen-ja-komplikaatiot
 nivelten-tutkiminen
 kipsaus
+rotator-cuff
+Nivelside-ja-jannevammat
+proksimaaliset-humerusmurtumat
+tk-trauma_1
+rannemurtumat
+Kaden-ja-sormien-vammat
+selkärangan-vammat
+tietoisku-04
 anestesiologia-ja-tehohoito
 elvytys
 akuuttihoidon-abcde
@@ -44,5 +52,9 @@ thoraxin-kasvaimet
 Thoraxin-ei-traumaattinen-paivystysradiologia
 Thoraxin-traumaattinen-paivystysradiologia
 tehohoitopotilaan-radiologia
+ranne
+käsi
+rankamurtumat
+rinnat_ja_gynekologinen-kuvantaminen
 fysiatria
 palaute
