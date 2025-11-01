@@ -99,7 +99,7 @@ Nilkka, rtg-kuvia päivystäjälle
 
 - [Nilkka osiosta Alaraaja, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00211)
 
-10_Jalkaterä
+## 10_Jalkaterä
 
 Jalkaterä, rtg-kuvia päivystäjälle
 

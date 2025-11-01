@@ -108,7 +108,7 @@ Trauma kandikurssi take home -dioista aiheeseen sopivat
 - Käsikirurgia, Kandidaattikustannus kpl 8.1 (Koukistajajännevamma)
 - Käsikirurgia, Kandidaattikustannus kpl 8.3 (Ojentajajännevamma)
 
-## 12: Nilkkavammat
+## 10: Nilkkavammat
 
 Luennot: Nilkkamurtumaseminaari + Nilkkavammojen hoitolinjat. Lisäksi
 
@@ -116,27 +116,27 @@ Luennot: Nilkkamurtumaseminaari + Nilkkavammojen hoitolinjat. Lisäksi
 - Traumatologia kpl 43 (Nilkkavammat) – tästä kaikki
 - Jos murtumamekanismit eivät ole selkeitä (miksi mikäkin murtuma tapahtuu), niin kts: https://youtu.be/EUKp7NV7Vbw?si=QkleYLxwmBwBcfkL
 
-## 13: Lonkkamurtumat
+## 11: Lonkkamurtumat
 
 Lonkkamurtumaseminaarin diat + lonkkamurtuman käypä hoito
 
 - Lonkka, rtg-kuvia päivystäjälle
 - Traumatologia kpl 40.2 (Proksimaaliset reisiluun murtumat)
 
-## 14: Veripolvi
+## 12: Veripolvi
 
 Lyhyt avaus veripolven perusteista, itse vammat omissa tägeissään (pääasiassa 05_nivelside- ja jännevammat)
 
 - Traumatologia, Kandidaattikustannus kpl 41.1
 
-## 15: Selkärangan vammat 
+## 13: Selkärangan vammat 
 
 Diat ja lisäksi: 
 
 - [Selkärangan ja selkäytimen vammat, Traumatologia -kandidaattikustannus](https://www.oppiportti.fi/oppikirjat/krd00215)
 - [Selkärangan päivystyskuvantaminen, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00207)
 
-## 16_TK-trauma_2
+## 14: TK-trauma_2
 
 Monet asiat, kuten nilkan nyrjähdykset, polven nivelsidevammat ja lonkkamurtumat omissa osioissaan. Tähän tägiin jätetty vain ne asiat, joita ei käsitellä muissa luennoissa. Lisäksi pitää lukea seuraavat:
 
