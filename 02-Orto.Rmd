@@ -53,6 +53,12 @@ Lue myös TK-traumatologiaa 1 -diat olka- ja AC-luksaation sekä kyynärnivelen 
 
 Anatomian harjoituksen tarpeessa kts. C1::TLN::Yläraaja_1
 
+Alaraajojen suhteen:
+
+- Diat + TK-traumatologiaa 2-paketista diat, jotka käsittelevät seuraavia: hamstring-ruptuura, quadriceps-ruptuura, patellaluksaatio ja polviluksaatio. Veripolvi-luennon tägissä käsitellään lyhyesti veripolven perusteet.
+- Traumatologia, Kandidaattikustannus kpl 41 (kokonaan)
+- Traumatologia, Kandidaattikustannus kpl 41.5 (Lonkan ja reiden jänne- ja lihasvammat)
+
 
 ## 06: Proksimaaliset humerusmurtumat 
 
@@ -102,7 +108,26 @@ Trauma kandikurssi take home -dioista aiheeseen sopivat
 - Käsikirurgia, Kandidaattikustannus kpl 8.1 (Koukistajajännevamma)
 - Käsikirurgia, Kandidaattikustannus kpl 8.3 (Ojentajajännevamma)
 
+## 12: Nilkkavammat
 
+Luennot: Nilkkamurtumaseminaari + Nilkkavammojen hoitolinjat. Lisäksi
+
+- Nilkka, rtg-kuvia päivystäjälle
+- Traumatologia kpl 43 (Nilkkavammat) – tästä kaikki
+- Jos murtumamekanismit eivät ole selkeitä (miksi mikäkin murtuma tapahtuu), niin kts: https://youtu.be/EUKp7NV7Vbw?si=QkleYLxwmBwBcfkL
+
+## 13: Lonkkamurtumat
+
+Lonkkamurtumaseminaarin diat + lonkkamurtuman käypä hoito
+
+- Lonkka, rtg-kuvia päivystäjälle
+- Traumatologia kpl 40.2 (Proksimaaliset reisiluun murtumat)
+
+## 14: Veripolvi
+
+Lyhyt avaus veripolven perusteista, itse vammat omissa tägeissään (pääasiassa 05_nivelside- ja jännevammat)
+
+- Traumatologia, Kandidaattikustannus kpl 41.1
 
 ## 15: Selkärangan vammat 
 
@@ -110,6 +135,19 @@ Diat ja lisäksi:
 
 - [Selkärangan ja selkäytimen vammat, Traumatologia -kandidaattikustannus](https://www.oppiportti.fi/oppikirjat/krd00215)
 - [Selkärangan päivystyskuvantaminen, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00207)
+
+## 16_TK-trauma_2
+
+Monet asiat, kuten nilkan nyrjähdykset, polven nivelsidevammat ja lonkkamurtumat omissa osioissaan. Tähän tägiin jätetty vain ne asiat, joita ei käsitellä muissa luennoissa. Lisäksi pitää lukea seuraavat:
+
+- Traumatologia kpl 44 (Jalkaterän vammat) – tästä kaikki
+- Jalkaterä, Rtg-kuvia päivystäjälle
+- Traumatologia kpl 39 (Lantionmurtumat) – tästä kaikki
+- Traumatologia kpl 40.1 (Lonkkanivelen sijoiltaanmenot)
+- Traumatologia kpl 40.3 (Reisiluun varren murtumat)
+- Traumatologia kpl 40.4 (Reisiluun alaosan murtumat)
+- Traumatologia kpl 41.6 (Polviolumpion murtumat)
+- Traumatologia kpl 42 (Säären vammat) – tästä kaikki
 
 ## 20: Tietoisku 04 
 

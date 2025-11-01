@@ -74,12 +74,36 @@ Rannemurtumat luennosta Traumaradiologia
 - Lapsen rannevamman RTG (Käsikirurgia tietoisku 1)
 
 
-## 06_Käsi
+## 06_Käsi {#Kasi}
 
 [Kämmenluut ja sormet, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00210)
 
 - Käden trauma rtg; Rtg-kuvia päivystäjälle
 
+## 07_Lantio- ja lonkka
+
+Lantio ja lonkkamalja, Kliininen radiologia (Trauman päivystysradiologia) + Alaraaja (Reisiluun proksimaaliosa)
+
+- Lonkka, rtg-kuvia päivystäjälle
+
+
+## 08_Polvi
+
+Polvi, rtg-kuvia päivystäjälle
+
+[Polvi osiosta Alaraaja, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00211)
+
+## 09_Nilkka
+
+Nilkka, rtg-kuvia päivystäjälle
+
+- [Nilkka osiosta Alaraaja, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00211)
+
+10_Jalkaterä
+
+Jalkaterä, rtg-kuvia päivystäjälle
+
+- [Kaikki nilkan jälkeen osiosta Alaraaja, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00211)
 
 ## 12_Rankamurtumat 
 

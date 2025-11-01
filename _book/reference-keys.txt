@@ -34,7 +34,11 @@ proksimaaliset-humerusmurtumat
 tk-trauma_1
 rannemurtumat
 Kaden-ja-sormien-vammat
+nilkkavammat
+lonkkamurtumat
+veripolvi
 selkärangan-vammat
+tk-trauma_2
 tietoisku-04
 anestesiologia-ja-tehohoito
 elvytys
@@ -53,7 +57,10 @@ Thoraxin-ei-traumaattinen-paivystysradiologia
 Thoraxin-traumaattinen-paivystysradiologia
 tehohoitopotilaan-radiologia
 ranne
-käsi
+Kasi
+lantio--ja-lonkka
+polvi
+nilkka
 rankamurtumat
 rinnat_ja_gynekologinen-kuvantaminen
 fysiatria
