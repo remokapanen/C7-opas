@@ -155,7 +155,7 @@ Traumaradiologialuennosta rankaan liittyvät diat ja lisäksi:
 
 Luento riittää (samalla nimellä kuin tägi)
 
-## 16_Pään ja selkäytimen elektiivinen radiologia {#Paan-ja-selkaytimen-selektiivinen radiologia}
+## 16_Pään ja selkäytimen elektiivinen radiologia {#Paan-ja-selkaytimen-elektiivinen-radiologia}
 
 Ei sinänsä tarvitse lukea mitään, mutta nämä kannattaa silmäillä
 

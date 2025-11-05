@@ -71,7 +71,7 @@ rankamurtumat
 rinnat_ja_gynekologinen-kuvantaminen
 lapset
 Paan-vammat-ja-infarktit
-pään-ja-selkäytimen-elektiivinen-radiologia-paan-ja-selkaytimen-selektiivinen-radiologia
+Paan-ja-selkaytimen-elektiivinen-radiologia
 kasvot-ja-kaula
 vatsa
 toimenpiteet
