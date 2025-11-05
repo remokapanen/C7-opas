@@ -2,7 +2,12 @@
 
 Kurssimateriaalina toimii Kliininen radiologia -oppikirja, Natiivikuvia päivystäjälle -Moodlekurssi ja muutamat luentopaketit 
 
-## 01: Radiologian perusteet 
+Tentin rakenne ollut viime vuodet samanlainen: n. 50 kysymystä, joista vain 25% kuvia ja joista n. puolet thx-kuvia. Kysymykset yleisesti helppoja ja tentit olleet hyvin tärppisiä. 
+
+- Tenttiarkistossa ei kuitenkaan ole vastauksia kysymyksiin ja kysymykset välillä väärin kirjoitettuja tai muistettuja. Olen koittanut koota viime vuosien kysymykset ja niiden mahdolliset vastaukset selkeämpään [pdf-tiedostoon](images\RAD_Tärpit_Vastattuna.pdf), jota voi halutessaan käyttää. 
+
+
+## 01_Radiologian perusteet 
 
 Tägin kortit eivät perustu mihinkään yksittäiseen luentoon tai kirjan kappaleeseen, mutta käyvät läpi tärkeimmät asiat radiologian fysiikasta ja kontrastiaineista. 
 
@@ -62,6 +67,26 @@ Kaikki osiosta [Sydän ja verisuonet; Thoraxkuvaus](https://www.oppiportti.fi/op
 - Thorax- Rtg-kuvia päivystäjälle (johdot yms) 
 - [Tehohoitopotilaan radiologiset tutkimukset, Thoraxkuvaus; Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00221)
 
+## 03_Proksimaalinen yläraaja {#Proksimaalinen-ylaraaja}
+
+### 01_Perusteet
+
+Olkanivel, rtg-kuvia päivystäjälle 
+
+### 02_Olkapää {#Olkapaa}
+
+Yläraaja-luento
+
+- Olkanivel, rtg-kuvia päivystäjälle 
+- [Lapaluu - olkavarsi, Yläraaja-Trauman päivystysradiologia; Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00210)
+
+### 03_Kyynärpää {#Kyynarpaa}
+
+Yläraaja-luento
+
+- Kyynärnivel, rtg-kuvia päivystäjälle
+- [Kyynärpää ja kyynärvarsi, Yläraaja-Trauman päivystysradiologia; Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00210)
+
 ## 05_Ranne
 
 Rannemurtumat luennosta Traumaradiologia
@@ -82,7 +107,7 @@ Rannemurtumat luennosta Traumaradiologia
 
 ## 07_Lantio- ja lonkka
 
-Lantio ja lonkkamalja, Kliininen radiologia (Trauman päivystysradiologia) + Alaraaja (Reisiluun proksimaaliosa)
+[Lantio ja lonkkamalja, Kliininen radiologia (Trauman päivystysradiologia)](https://www.oppiportti.fi/oppikirjat/krd00208) + [Alaraaja (Reisiluun proksimaaliosa)](https://www.oppiportti.fi/oppikirjat/krd00211#s1)
 
 - Lonkka, rtg-kuvia päivystäjälle
 
@@ -91,7 +116,7 @@ Lantio ja lonkkamalja, Kliininen radiologia (Trauman päivystysradiologia) + Ala
 
 Polvi, rtg-kuvia päivystäjälle
 
-[Polvi osiosta Alaraaja, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00211)
+- [Polvi osiosta Alaraaja, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00211)
 
 ## 09_Nilkka
 
@@ -105,6 +130,10 @@ Jalkaterä, rtg-kuvia päivystäjälle
 
 - [Kaikki nilkan jälkeen osiosta Alaraaja, Kliininen radiologia -oppikirja](https://www.oppiportti.fi/oppikirjat/krd00211)
 
+## 11_Tuki-ja liikuntaelimet 
+
+Kaikki kyseisestä [kirjan kappaleesta](https://www.oppiportti.fi/oppikirjat/krd00501)
+
 ## 12_Rankamurtumat 
 
 Traumaradiologialuennosta rankaan liittyvät diat ja lisäksi: 
@@ -115,4 +144,43 @@ Traumaradiologialuennosta rankaan liittyvät diat ja lisäksi:
 ## 13_Rinnat_ja_gynekologinen kuvantaminen
 
 [Rinnat, Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00901)
+
+## 14_Lapset 
+
+[Lasten murtumat, Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00218)
+
+- Yläraajaluennossa myös hyvin selitetty kasvutumakkeista 
+
+## 15_Pään vammat ja infarktit {#Paan-vammat-ja-infarktit}
+
+Luento riittää (samalla nimellä kuin tägi)
+
+## 16_Pään ja selkäytimen elektiivinen radiologia {#Paan-ja-selkaytimen-selektiivinen radiologia}
+
+Ei sinänsä tarvitse lukea mitään, mutta nämä kannattaa silmäillä
+
+- Kirjasta osiot Aivojen kuvantaminen ja Selkäydin ja spinaalikanava pääkappaleesta [Pään, kaulan ja selkäytimen radiologia](https://www.oppiportti.fi/oppikirjat/krd00602)
+
+## 17_Kasvot ja kaula 
+
+Ei taaskaan oikein tarvitse lukea, mutta voi silmäillä:
+
+- [Kasvojen trauma, Kliininen radiologia](https://www.oppiportti.fi/oppikirjat/krd00203)
+- Kaikki osiosta [Pää, kasvot ja kaula](https://www.oppiportti.fi/oppikirjat/krd00607)
+
+## 19_Vatsa 
+
+- [Vatsan alueen trauma](https://www.oppiportti.fi/oppikirjat/krd00206)
+- [Akuutti vatsa](https://www.oppiportti.fi/oppikirjat/krd00212)
+- Kaikki osiosta [Vatsan radiologia](https://www.oppiportti.fi/oppikirjat/krd00701)
+
+## 20_Toimenpiteet 
+
+Ei tarvitse oikein lukea mitään, mutta voi silmäillä
+
+- Kaikki osiosta [Päivystysradiologiset toimenpiteet ja indikaatiot](https://www.oppiportti.fi/oppikirjat/krd00225)
+
+
+
+
 
