@@ -39,6 +39,7 @@ lonkkamurtumat
 veripolvi
 selkärangan-vammat
 tk-trauma_2
+luutuumorit-ja-rasitusmurtumat
 tietoisku-04
 anestesiologia-ja-tehohoito
 elvytys
