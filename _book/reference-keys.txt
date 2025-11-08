@@ -46,6 +46,7 @@ elvytys
 akuuttihoidon-abcde
 yleisanestesia-sedaatio-ja-puudutukset
 monitorointi
+kivun-hoito
 radiologia
 radiologian-perusteet
 thorax

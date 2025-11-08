@@ -24,3 +24,13 @@ Diojen lisäksi suosittelen:
 - [Keskuslaskimokatetrit-verkkokurssi](https://www.oppiportti.fi/dvk00057) (diapakettissa vain yksi dia aiheesta, mutta tärpeissä pari kysymystä näihin liittyen; ei tarvitse verkkokurssia tarkasti käydä läpi, mutta perusidea aiheesta)
 - [Kapnografia-video](https://youtu.be/fLfHsuWYbdc?si=x942lC9NxLq4E7Ca)
 - [TOF artikkelimuodossa]( https://say.fi/files/illman_relaksaatio.pdf ) tai [videomuodossa](https://youtu.be/b61fpDNZOcU?si=VxuzU94RuK7FemSP) ja [videomuodossa tarkemmin](https://youtu.be/kqUAgtV3Bb4?si=cdcMjGGZh-usSWY0)
+
+## Kivun hoito 
+
+Diat + kivun hoito -seminaareihin liittyvät jutut riittävät, jos farmis on muuten hallussa. Jos haluaa virkistää muistiaan, niin kannattaa katsoa lääkeryhmien Sketchyt (samoja käsittelevät kortit myös tägätty tähän tägiin, jotta ns. pakosti tulee kerrattua tärkein farmakologia): 
+
+- Blood&Inflammation::Anti-inflammatory::NSAIDs
+- Neuro&Psych::Anesthetics&Analgetics::Opiates, Naloxone, Naltrexone 
+- Neuro&Psych::Mood_Stabilizers&Antiepileptic_drugs::Gabapentin&Pregabalin
+
+
