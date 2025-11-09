@@ -40,6 +40,7 @@ veripolvi
 selkärangan-vammat
 tk-trauma_2
 luutuumorit-ja-rasitusmurtumat
+replantaatiot-ja-amputaatiot
 Kasikirurgian-tietoiskut
 tietoisku-02
 tietoisku-03
