@@ -158,9 +158,25 @@ Lukemiseksi riittää luento. Lisäksi voi perehtyä tuumoreihin ja rasitusmurtu
 - [Luukasvaimet, Ortopedian ja traumatologian käsikirja; Duodecim](https://www.oppiportti.fi/oppikirjat/ort00218)
 - Traumatologia, Kandidaattikustannus kpl 45 (Rasitusmurtumat) 
 
-## 20: Tietoisku 04 
+## Käsikirurgian tietoiskut {#Kasikirurgian-tietoiskut}
 
-Tietoisku ja lisäksi: 
+### Tietoisku 02
+
+Käden kulumavaiva ja sen hoito. Tietoisku riittää. 
+
+- Halutessaan voi lisäksi lukea kpl 3.2 (Käden ja ranteen nivelrikko) kirjasta Käsikirurgia, Kandidaattikustannus
+- Käden nivelrikosta on myös [Duodecim-artikkeli](https://www.terveysportti.fi/apps/dtk/ltk/article/duo15687)
+
+### Tietoisku 03 
+
+Napsusormi ja sen hoito. Tietoisku riittää. 
+
+- Halutessaan voi lisäksi lukea kpl 11.2 (Käden tavalliset jännetuppitulehdukset) kirjasta Käsikirurgia, Kandidaattikustannus
+- Napsusormesta on myös lyhyt [Terveysportti-artikkeli](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt01435)
+
+###  Tietoisku 04 
+
+Rannekanavaoireyhtymä. Pääasiassa tietoisku riittää, mutta kannattanee lukea myös: 
 
 - [Rannekanavaoireyhtymä (Yläraajan hermopinteet ja neuropatiat, Duodecim Ortopedian ja traumatologian käsikirja)](https://www.oppiportti.fi/oppikirjat/ort00155)
 

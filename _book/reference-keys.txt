@@ -40,6 +40,9 @@ veripolvi
 selkärangan-vammat
 tk-trauma_2
 luutuumorit-ja-rasitusmurtumat
+Kasikirurgian-tietoiskut
+tietoisku-02
+tietoisku-03
 tietoisku-04
 anestesiologia-ja-tehohoito
 elvytys
