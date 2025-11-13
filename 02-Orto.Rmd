@@ -1,5 +1,7 @@
 # Ortopedia, Traumatologia ja Käsikirurgia {#OrtoTraumaKasi}
 
+Wikin tärppejä on hieman vaikeaa käydä läpi, joten tein parannellun version niistä. Löytyy [täältä](https://ortotarpit.netlify.app/)
+
 ## 01: INFO + Luunmurtuman paraneminen ja komplikaatiot
 
 Diat ja Traumatologia-oppikirjasta kappaleet 21.1-21.8.
