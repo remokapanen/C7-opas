@@ -47,6 +47,7 @@ tietoisku-02
 tietoisku-03
 tietoisku-04
 anestesiologia-ja-tehohoito
+sisäänpääsytentti
 elvytys
 akuuttihoidon-abcde
 yleisanestesia-sedaatio-ja-puudutukset
