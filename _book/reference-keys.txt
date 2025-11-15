@@ -24,6 +24,8 @@ Paivystysurologiaa
 Eturauhassyovan-diagnostiikka
 Eturauhassyovan-hoito
 kivespussin-sairaudet
+Kiveksen-ja-peniksen-syovat
+peniksen-sairaudet
 OrtoTraumaKasi
 info-luunmurtuman-paraneminen-ja-komplikaatiot
 nivelten-tutkiminen

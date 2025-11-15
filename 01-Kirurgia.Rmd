@@ -186,9 +186,24 @@ Diojen lisäksi:
 - [Eturauhassyövän hoitoketjua](https://www.pirha.fi/web/hoito-ja-palveluketjut/eturauhassyopapotilaan-hoitoketju)
 - [Eturauhassyöpä kirrakirjasta](https://www.oppiportti.fi/oppikirjat/kia00313)
   
-  
 ### 05: Kivespussin sairaudet 
 
 Paljon samoja aiheita kuin päivystysurologia-luennon korteissa ja samat kortit tägätty tännekin. Diojen lisäksi 
 
 - [Hydroseele, spermatoseele, varikoseele](https://www.oppiportti.fi/oppikirjat/kia00334)
+
+### 06: Kiveksen ja peniksen syövät {#Kiveksen-ja-peniksen-syovat}
+
+Diat sinänsä riittävät, ei ole kovinkaan korkean annin aihe. Lisää täältä halutessasi: 
+
+- [Kivessyöpä; Kirurgia, Duodecim](https://www.oppiportti.fi/oppikirjat/kia00328)
+- [Siittimen kasvaimet, Kirurgia, Duodecim](https://www.oppiportti.fi/oppikirjat/kia00329)
+
+### 07: Peniksen sairaudet 
+
+Diat sinänsä riittävät, aiheet ovat aika simppelit. Lisää halutessasi:
+
+- Täältä voi lukea erektiohäiriöistä, fimoosista ja Peyronien taudista: [Kirurgia, Duodecim](https://www.oppiportti.fi/oppikirjat/kia00330). 
+- [Ennenaikainen siemensyöksy, Terveysportti](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt01788)
+
+
