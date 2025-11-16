@@ -55,6 +55,8 @@ akuuttihoidon-abcde
 yleisanestesia-sedaatio-ja-puudutukset
 monitorointi
 kivun-hoito
+leikkauskelpoisuuden-arviointi
+tehohoidon-perusteet
 radiologia
 radiologian-perusteet
 thorax

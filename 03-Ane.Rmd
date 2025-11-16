@@ -37,4 +37,14 @@ Diat + kivun hoito -seminaareihin liittyvät jutut riittävät, jos farmis on mu
 - Neuro&Psych::Anesthetics&Analgetics::Opiates, Naloxone, Naltrexone 
 - Neuro&Psych::Mood_Stabilizers&Antiepileptic_drugs::Gabapentin&Pregabalin
 
+## Leikkauskelpoisuuden arviointi 
+
+Diat riittävät. 
+
+## Tehohoidon perusteet
+
+Diat pääasiassa riittävät. Luennolla ei oikein tule paljoa uutta ja tämän takia tägi koostuu pääasiassa jo aikaisemmin tehdyistä korteista (esim. sisukset sepsiksen suhteen ja laboratoriolääketiede happo-emästasapainohäiriöiden suhteen). 
+
+- Happo-emästasapainot opetetaan yleislääkäreille tyypillisesti helpon kaavan kautta ja se perusjaottelu on jo useaan kertaan opetettu. Jos haluaa lukea aiheesta tarkemmin, niin [täällä](https://say.fi/files/reinikainen_na_in.pdf) on suomeksi dioissakin siteerattu artikkeli ja [täällä](https://eclinpath.com/chemistry/acid-base/strong-ion-approach/) englanniksi Strong Ion Approachista. Näihin ei paneuduta liikaa korteissakaan, koska peruslähestymistapa happo-emästasapainohäiriöihin on paljon helpompi ja toimii suurimmassa osassa tapauksista. 
+
 
