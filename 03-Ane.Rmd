@@ -2,6 +2,8 @@
 
 Ennakkomateriaalit ovat aika hyviä, niistä voi myös lueskella aiheita ennen kortteja. 
 
+Tärpit uudelleenrakennettuna löytyy täältä: https://anetarpit.netlify.app/
+
 ## Sisäänpääsytentti 
 
 [Jos koet tuen tarpeeksi](images/Sisäänpääsytentti_ANE.pdf)
